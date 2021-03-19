@@ -1,5 +1,5 @@
-# Dom Demo
+# War Card Game
 
-## Video by Brad Traversy
+## Video by Kyle Cook
 
-[JavaScript Crash Course For Beginners - The Dom](https://youtu.be/hdI2bqOjy3c?t=4229) Start at 1:10:29
+[How To Build A Simple Card Game With JavaScript](https://youtu.be/NxRwIZWjLtE)
